@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-07-19 14:15:03-0000
 inline: true
 ---
 
-A simple inline announcement.
+Our paper on security application of programmable data plane (NetHCF) is accepted to [ICNP'19](https://icnp19.cs.ucr.edu/){:target="\_blank"}.
