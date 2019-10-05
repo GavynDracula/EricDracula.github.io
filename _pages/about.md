@@ -3,9 +3,8 @@ layout: about
 permalink: /
 title: <strong>Guanyu Li</strong> (李冠宇)
 description: >
-  Ph.D. Student,
-  <a href="http://www.insc.tsinghua.edu.cn">Institute for Network Science and Cyberspace</a>,
-  <a href="https://www.tsinghua.edu.cn">Tsinghua University</a>, 100084, Beijing, China
+  <a href="http://www.insc.tsinghua.edu.cn">Institute for Network Science and Cyberspace</a> •
+  <a href="https://www.tsinghua.edu.cn">Tsinghua University</a>
 
 profile:
   align: right
@@ -18,6 +17,8 @@ profile:
 news: true
 social: true
 ---
+
+I'm now a 2nd-year Ph.D. student in <a href="http://www.insc.tsinghua.edu.cn">Institute for Network Science and Cyberspace</a> of <a href="https://www.tsinghua.edu.cn">Tsinghua University</a>, advised by <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu">Prof. Mingwei Xu</a>. From my last undergraduate year and first graduate year, I worked under the supervision of <a href="http://netarchlab.tsinghua.edu.cn/~junbi/">Prof. Jun Bi</a>, a diligent and kind professor. Unfortunately, he suddenly passed away in Feb., 2019.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
