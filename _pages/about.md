@@ -1,8 +1,11 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Guanyu Li</strong> (李冠宇)
+description: >
+  Ph.D. Student,
+  <a href="http://www.insc.tsinghua.edu.cn">Institute for Network Science and Cyberspace</a>,
+  <a href="https://www.tsinghua.edu.cn">Tsinghua University</a>, 100084, Beijing, China
 
 profile:
   align: right
