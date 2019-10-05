@@ -24,4 +24,4 @@ I'm now a 2nd-year Ph.D. student in [Institute for Network Science and Cyberspac
 I am familiar with Software Defined Networking (SDN), Network Function Virtualization (NFV), and Programmable data plane (P4). Besides, I have deeply involved in a set of scenarios, such as cloud gateway, Denial-of-Service attacks, Network Intrusion Detection/Prevention System, Internet of Things and etc. Most of my projects are trying to make distributed system more security and reliable.
 
 **Previously:** [[a more formal bio](/bio)]  
-I hold B.S. Degree in [School of Computer Science](http://www.insc.tsinghua.edu.cn){:target="\_blank"} from [Huazhong University of Science and Technology](http://www.insc.tsinghua.edu.cn){:target="\_blank"}. 
+I hold B.S. Degree in [School of Computer Science](http://cs.hust.edu.cn){:target="\_blank"} from [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="\_blank"}. 
