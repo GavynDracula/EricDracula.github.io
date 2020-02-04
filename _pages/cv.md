@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Basic
+======
+**Name:** Guanyu Li (李冠宇)  
+**Gender:** Male  
+**Date of Birth:** 03/26/1996  
+**Place of Birth:** Liaocheng, Shandong, China  
+{% comment %}
+**Mobile Phone:** 15206599308  
+**E-mail:** dracula.guanyu.li@gmail.com  
+{% endcomment %}
+
 Education
 ======
 * 2014 to 2018: **B.Eng.** degree
@@ -19,7 +30,7 @@ Education
   * [Institute for Network Science and Cyberspace](http://www.insc.tsinghua.edu.cn){:target="\_blank"}, [Tsinghua University](https://www.tsinghua.edu.cn){:target="\_blank"}
   * Subject: Cyberspace Security
 
-Work experience
+Work Experience
 ======
 * Summer 2017: Software Engineer Intern
   * Place: [CraiditX](https://www.creditx.com/){:target="\_blank"}
