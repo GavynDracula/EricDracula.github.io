@@ -13,4 +13,5 @@ citation: '<i>Jiasong Bai, Jun Bi, Menghao Zhang, and <b>Guanyu Li</b>. &quot;Fi
 ***Abstract***
 No abstract available.
 
-[Download paper here](https://dl.acm.org/doi/10.1145/3234200.3234205)
+***Paper URL: ***
+[Read or download the complete paper here](https://dl.acm.org/doi/10.1145/3234200.3234205){:target="\_blank"}
