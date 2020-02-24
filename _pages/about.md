@@ -27,6 +27,9 @@ News
 
 Selected Publications
 ------
+* [Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](/publications/2020-02-NDSS-Poseidon). **<font color="#6384E2">[NDSS'20]</font>**  
+Menghao Zhang, **Guanyu Li**, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu.
+*Full paper acceptance ratio: 88/506 = 17.4%.*
 * [NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](/publications/2019-10-ICNP-NetHCF). **<font color="#6384E2">[ICNP'19]</font>**  
 **Guanyu Li**, Menghao Zhang, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, and Haixin Duan.  
 *Full paper acceptance ratio: 38/210 = 18.1%.*
