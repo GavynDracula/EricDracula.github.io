@@ -17,7 +17,7 @@ Basic
 **Place of Birth:** Liaocheng, Shandong, China  
 **Mobile Phone:** 15206599308  
 **E-mail:** dracula.guanyu.li@gmail.com  
-**Website:** https://guanyu.li
+**Website:** [guanyu.li](https://guanyu.li){:target="\_blank"}  
 
 Education
 ======
