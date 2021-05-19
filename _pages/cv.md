@@ -17,7 +17,7 @@ Basic
 **Place of Birth:** Liaocheng, Shandong, China  
 **Mobile Phone:** 15206599308  
 **E-mail:** dracula.guanyu.li@gmail.com  
-**Address:** FIT Building 4-204, Tsinghua University, Beijing, China  
+**Address:** FIT Building 4-206, Tsinghua University, Beijing, China  
 **Website:** [guanyu.li](https://guanyu.li){:target="\_blank"}  
 
 Education
@@ -32,6 +32,10 @@ Education
 
 Work Experience
 ======
+* Summer 2020: Software Engineer Intern
+* Place: [Huawei](https://www.huawei.com/){:target="\_blank"}
+  * Duties: Programmable Networking System Develping
+  * Supervisor: Dr. Xuya Jia
 * Summer 2017: Software Engineer Intern
   * Place: [CraiditX](https://www.creditx.com/){:target="\_blank"}
   * Duties: Internal Data Processing System Develping
@@ -61,6 +65,8 @@ Teaching
 
 Selected Awards
 ======
+* [03/2021] **Intel Bug Bounty Awards**, High-Impact Software Bugs on Tofino Switch, Intel
+* [12/2020] **2nd prize**, Tsinghua 84 Scholarship for Innovations and Future, Beijing
 * [08/2019] **2nd prize**, 2019 SIGCOMM Hackthon, Beijing
 * [06/2018] **Outstanding Undergraduate Thesis**, HUST, Wuhan
 * [06/2018] **Outstanding Undergraduate**, HUST, Wuhan

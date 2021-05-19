@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Guanyu Li, a 2nd-year Ph.D. student in [Institute for Network Science and Cyberspace](http://www.insc.tsinghua.edu.cn){:target="\_blank"} of [Tsinghua University](https://www.tsinghua.edu.cn){:target="\_blank"}, advised by [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu){:target="\_blank"}.
+I'm Guanyu Li, a 3rd-year Ph.D. candidate in [Institute for Network Science and Cyberspace](http://www.insc.tsinghua.edu.cn){:target="\_blank"} of [Tsinghua University](https://www.tsinghua.edu.cn){:target="\_blank"}, advised by [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu){:target="\_blank"}.
 For my last undergraduate year and first graduate year, I worked under the supervision of [Prof. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/){:target="\_blank"}, a diligent and kind professor. Unfortunately, he suddenly passed away in Feb., 2019.
 Besides, I hold B.Eng. Degree in [School of Computer Science & Technology](http://cs.hust.edu.cn){:target="\_blank"} from [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="\_blank"}.
 
@@ -20,25 +20,33 @@ In addition, I have digged into a set of fields, such as [**Cloud Gateway**](htt
 
 News
 ------
-* [01/2020] **(Paper)** Our paper Poseidon is accepted to [NDSS 2020](https://www.ndss-symposium.org/ndss2020/){:target="\_blank"}.
+* [02/2021] **(Paper)** Our work Poseidon (journal version) is accepted to [TON 2021](https://ieeexplore.ieee.org/abstract/document/9387461){:target="\_blank"}.
+* [12/2020] **(Paper)** Our work Bolt is accepted to [INFOCOM 2021](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference/#132){:target="\_blank"}.
+* [11/2020] **(Paper)** Our work SwitchGuard (journal version) is accepted to [TON 2021](https://ieeexplore.ieee.org/abstract/document/9288943){:target="\_blank"}.
+* [01/2020] **(Paper)** Our work Poseidon is accepted to [NDSS 2020](https://www.ndss-symposium.org/ndss2020/){:target="\_blank"}.
 * [08/2019] **(Award)** Our team win the 2nd prize on [Hackathon at SIGCOMM 2019](https://conferences.sigcomm.org/sigcomm/2019/hackathon.html){:target="\_blank"}.
-* [07/2019] **(Paper)** Our paper NetHCF is accepted to [ICNP 2019](https://icnp19.cs.ucr.edu/){:target="\_blank"}.
-* [09/2018] **(Career)** I will continue my Ph.D. study at Tsinghua University.
+* [07/2019] **(Paper)** Our work NetHCF is accepted to [ICNP 2019](https://icnp19.cs.ucr.edu/){:target="\_blank"}.
 
 Selected Publications
 ------
+* [Enabling Performant, Flexible and Cost-Efficient DDoS Defense with Programmable Switches](/publications/2021-06-TON-Poseidon). **<font color="#6384E2">[TON'21]</font>**  
+**Guanyu Li**, Menghao Zhang, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu.
+*CCF-A/TH-CPL-A, SCI Impact Factor: 3.315.*
+* [Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs](/publications/2021-05-INFOCOM-Bolt). **<font color="#6384E2">[INFOCOM'21]</font>**  
+Shicheng Wang, Menghao Zhang, **Guanyu Li**, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu.
+*CCF-A/TH-CPL-A, full paper acceptance ratio: 252/1266 = 19.9%.*
+* [Control Plane Reflection Attacks and Defenses in Software-Defined Networks](/publications/2021-04-TON-SWGuard). **<font color="#6384E2">[TON'21]</font>**  
+Menghao Zhang, **Guanyu Li**, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu.
+*CCF-A/TH-CPL-A, SCI Impact Factor: 3.315.*
 * [Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](/publications/2020-02-NDSS-Poseidon). **<font color="#6384E2">[NDSS'20]</font>**  
 Menghao Zhang, **Guanyu Li**, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu.  
-*Full paper acceptance ratio: 88/506 = 17.4%.*
+*CCF-B/TH-CPL-A, full paper acceptance ratio: 88/506 = 17.4%.*
 * [NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](/publications/2019-10-ICNP-NetHCF). **<font color="#6384E2">[ICNP'19]</font>**  
 **Guanyu Li**, Menghao Zhang, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, and Haixin Duan.  
-*Full paper acceptance ratio: 38/210 = 18.1%.*
+*CCF-B/TH-CPL-A, full paper acceptance ratio: 38/210 = 18.1%.*
 * [Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](/publications/2019-03-JSAC-Tripod). **<font color="#6384E2">[JSAC'19]</font>**  
 Menghao Zhang, Jun Bi, Kai Gao, Yi Qiao, **Guanyu Li**, Xiao Kong, Zhaogeng Li, and Hongxin Hu.  
-*SCI Impact Factor: 7.2/8.2.*
-* [Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures](/publications/2018-09-RAID-SWGuard). **<font color="#6384E2">[RAID'18]</font>**  
-Menghao Zhang, **Guanyu Li**, Lei Xu, Jun Bi, Guofei Gu, and Jiasong Bai.  
-*Full Paper Acceptance Ratio: 32/145 = 22.1%.*
+*CCF-A/TH-CPL-A, SCI Impact Factor: 11.42.*
 
 More Info
 ------
