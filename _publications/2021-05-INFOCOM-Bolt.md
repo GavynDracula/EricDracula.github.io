@@ -7,7 +7,7 @@ date: 2021-05-14
 venue: 'IEEE International Conference on Computer Communications (INFOCOM)'
 paperurl: 'https://www.ndss-symposium.org/wp-content/uploads/2020/02/24007-paper.pd://zhangmenghao.github.io/papers/infocom2021-Bolt.pdf'
 
-citation: '<i>Shicheng Wang, Menghao Zhang, <b>Guanyu Li</b>, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu. Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs. In the 40th IEEE International Conference on Computer Communications (INFOCOM), Virtual Conference, May 10-13, 2021.</i>'
+citation: '<i>Shicheng Wang, Menghao Zhang, <b>Guanyu Li</b>, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu. &quot;Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs&quot;. In the 40th IEEE International Conference on Computer Communications (INFOCOM), Virtual Conference, May 10-13, 2021.</i>'
 
 ---
 **Abstract:**  
