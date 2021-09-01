@@ -7,7 +7,7 @@ date: 2021-06-01
 venue: 'IEEE/ACM Transactions on Networking (TON)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9387461'
 
-citation: '<i><b>Guanyu Li</b>, Menghao Zhang, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu. &quot;Enabling Performant, Flexible and Cost-Efficient DDoS Defense with Programmable Switches. In IEEE/ACM Transactions on Networking (TON), 2021.</i>'
+citation: '<i><b>Guanyu Li</b>, Menghao Zhang, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu. &quot;Enabling Performant, Flexible and Cost-Efficient DDoS Defense with Programmable Switches&quot;. In IEEE/ACM Transactions on Networking (TON), 2021.</i>'
 
 ---
 **Abstract:**  
