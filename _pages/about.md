@@ -20,12 +20,12 @@ In addition, I have digged into a set of fields, such as [**Cloud Gateway**](htt
 
 News
 ------
+* [08/2021] **(Paper)** Our work IMap (short version) is accepted to [HotNets 2021](https://conferences.sigcomm.org/hotnets/2021){:target="\_blank"}.
+* [03/2021] **(Award)** We find a high-impact software bug on [Tofino](https://www.intel.com/content/www/us/en/products/network-io/programmable-ethernet-switch.html){:target="\_blank"} switch and obtain [Intel Bug Bounty Awards](https://www.intel.com/content/www/us/en/security-center/bug-bounty-program.html){:target="\_blank"}.
 * [02/2021] **(Paper)** Our work Poseidon (journal version) is accepted to [TON 2021](https://ieeexplore.ieee.org/abstract/document/9387461){:target="\_blank"}.
 * [12/2020] **(Paper)** Our work Bolt is accepted to [INFOCOM 2021](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference/#132){:target="\_blank"}.
 * [11/2020] **(Paper)** Our work SwitchGuard (journal version) is accepted to [TON 2021](https://ieeexplore.ieee.org/abstract/document/9288943){:target="\_blank"}.
 * [01/2020] **(Paper)** Our work Poseidon is accepted to [NDSS 2020](https://www.ndss-symposium.org/ndss2020/){:target="\_blank"}.
-* [08/2019] **(Award)** Our team win the 2nd prize on [Hackathon at SIGCOMM 2019](https://conferences.sigcomm.org/sigcomm/2019/hackathon.html){:target="\_blank"}.
-* [07/2019] **(Paper)** Our work NetHCF is accepted to [ICNP 2019](https://icnp19.cs.ucr.edu/){:target="\_blank"}.
 
 Selected Publications
 ------
