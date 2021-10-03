@@ -15,7 +15,7 @@ Basic
 **Gender:** Male  
 **Date of Birth:** 03/26/1996  
 **Place of Birth:** Liaocheng, Shandong, China  
-> **Mobile Phone:** 15206599308  
+''' **Mobile Phone:** 15206599308  
 **E-mail:** dracula.guanyu.li@gmail.com  
 **Address:** FIT Building 4-206, Tsinghua University, Beijing, China  
 **Website:** [guanyu.li](https://guanyu.li){:target="\_blank"}  
