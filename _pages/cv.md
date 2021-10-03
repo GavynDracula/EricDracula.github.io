@@ -15,7 +15,7 @@ Basic
 **Gender:** Male  
 **Date of Birth:** 03/26/1996  
 **Place of Birth:** Liaocheng, Shandong, China  
-**Mobile Phone:** 15206599308  
+> **Mobile Phone:** 15206599308  
 **E-mail:** dracula.guanyu.li@gmail.com  
 **Address:** FIT Building 4-206, Tsinghua University, Beijing, China  
 **Website:** [guanyu.li](https://guanyu.li){:target="\_blank"}  
@@ -33,7 +33,7 @@ Education
 Work Experience
 ======
 * Summer 2020: Software Engineer Intern
-* Place: [Huawei](https://www.huawei.com/){:target="\_blank"}
+  * Place: [Huawei](https://www.huawei.com/){:target="\_blank"}
   * Duties: Programmable Networking System Develping
   * Supervisor: Dr. Xuya Jia
 * Summer 2017: Software Engineer Intern
