@@ -7,7 +7,7 @@ date: 2020-08-10
 venue: 'The Workshop on Secure Programmable Network Infrastructure (SPIN)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3405669.3405818'
 
-citation: '<i>Jiasong Bai, Menghao Zhang, <b>Guanyu Li</b>, Chang Liu, Mingwei Xu, Hongxin Hu. &quot;FastFE: Accelerating ML-based Traffic Analysis with Programmable Switches&quot;. In the 1st Workshop on Secure Programmable Network Infrastructure (SPIN), co-located with SIGCOMM 2020, New York, USA, August 10, 2020</i>'
+citation: '<i>Jiasong Bai, Menghao Zhang, <b>Guanyu Li</b>, Chang Liu, Mingwei Xu, Hongxin Hu. &quot;FastFE: Accelerating ML-based Traffic Analysis with Programmable Switches&quot;. In the 1st Workshop on Secure Programmable Network Infrastructure (SPIN), co-located with SIGCOMM 2020, New York, USA, August 10, 2020.</i>'
 
 ---
 **Abstract:**  
