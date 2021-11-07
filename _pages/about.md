@@ -30,16 +30,16 @@ News
 Selected Publications
 ------
 * [Switches are Scanners Too!: A Fast and Scalable In-Network Scanner with Programmable Switches](/publications/2021-11-HotNets-IMap). **<font color="#6384E2">[HotNets'21]</font>**  
-**Guanyu Li**, Menghao Zhang, Cheng Guo, Han Bao, Mingwe Xu , Hongxin Hu.
+**Guanyu Li**, Menghao Zhang, Cheng Guo, Han Bao, Mingwe Xu , Hongxin Hu.  
 *CCF-C/TH-CPL-B, full paper acceptance ratio: 31/101 = 30.7%.*
 * [Enabling Performant, Flexible and Cost-Efficient DDoS Defense with Programmable Switches](/publications/2021-06-TON-Poseidon). **<font color="#6384E2">[TON'21]</font>**  
-**Guanyu Li**, Menghao Zhang, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu.
+**Guanyu Li**, Menghao Zhang, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu.  
 *CCF-A/TH-CPL-A, SCI Impact Factor: 3.315.*
 * [Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs](/publications/2021-05-INFOCOM-Bolt). **<font color="#6384E2">[INFOCOM'21]</font>**  
-Shicheng Wang, Menghao Zhang, **Guanyu Li**, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu.
+Shicheng Wang, Menghao Zhang, **Guanyu Li**, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu.  
 *CCF-A/TH-CPL-A, full paper acceptance ratio: 252/1266 = 19.9%.*
 * [Control Plane Reflection Attacks and Defenses in Software-Defined Networks](/publications/2021-04-TON-SWGuard). **<font color="#6384E2">[TON'21]</font>**  
-Menghao Zhang, **Guanyu Li**, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu.
+Menghao Zhang, **Guanyu Li**, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu.  
 *CCF-A/TH-CPL-A, SCI Impact Factor: 3.315.*
 * [Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](/publications/2020-02-NDSS-Poseidon). **<font color="#6384E2">[NDSS'20]</font>**  
 Menghao Zhang, **Guanyu Li**, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu.  
