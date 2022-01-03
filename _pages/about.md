@@ -29,6 +29,9 @@ News
 
 Selected Publications
 ------
+* [IMap: Fast and Scalable In-Network Scanning with Programmable Switches](/publications/2022-04-NSDI-IMap). **<font color="#6384E2">[NSDI'22]</font>**  
+**Guanyu Li**, Menghao Zhang, Cheng Guo, Han Bao, Mingwe Xu , Hongxin Hu, Fenghua Li.  
+*CCF-A/TH-CPL-A, full paper acceptance ratio: 50/298 = 16.8%.*
 * [Switches are Scanners Too!: A Fast and Scalable In-Network Scanner with Programmable Switches](/publications/2021-11-HotNets-IMap). **<font color="#6384E2">[HotNets'21]</font>**  
 **Guanyu Li**, Menghao Zhang, Cheng Guo, Han Bao, Mingwe Xu , Hongxin Hu.  
 *CCF-C/TH-CPL-B, full paper acceptance ratio: 31/101 = 30.7%.*

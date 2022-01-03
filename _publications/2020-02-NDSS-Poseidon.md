@@ -2,7 +2,7 @@
 title: "Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches"
 collection: publications
 permalink: /publications/2020-02-NDSS-Poseidon
-excerpt: 'This paper propose a programmable defense system against volumetric DDoS attacks.'
+excerpt: 'This paper proposes a programmable defense system against volumetric DDoS attacks.'
 date: 2020-02-26
 venue: 'The Network and Distributed System Security Symposium (NDSS)'
 paperurl: 'https://www.ndss-symposium.org/wp-content/uploads/2020/02/24007-paper.pdf'
