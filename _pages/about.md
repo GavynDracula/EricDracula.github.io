@@ -41,18 +41,21 @@ Selected Publications
 * [Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs](/publications/2021-05-INFOCOM-Bolt). **<font color="#6384E2">[INFOCOM'21]</font>**  
 Shicheng Wang, Menghao Zhang, **Guanyu Li**, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu.  
 *CCF-A/TH-CPL-A, full paper acceptance ratio: 252/1266 = 19.9%.*
-* [Control Plane Reflection Attacks and Defenses in Software-Defined Networks](/publications/2021-04-TON-SWGuard). **<font color="#6384E2">[TON'21]</font>**  
-Menghao Zhang, **Guanyu Li**, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu.  
-*CCF-A/TH-CPL-A, SCI Impact Factor: 3.315.*
 * [Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](/publications/2020-02-NDSS-Poseidon). **<font color="#6384E2">[NDSS'20]</font>**  
 Menghao Zhang, **Guanyu Li**, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu.  
 *CCF-B/TH-CPL-A, full paper acceptance ratio: 88/506 = 17.4%.*
 * [NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](/publications/2019-10-ICNP-NetHCF). **<font color="#6384E2">[ICNP'19]</font>**  
 **Guanyu Li**, Menghao Zhang, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, and Haixin Duan.  
 *CCF-B/TH-CPL-A, full paper acceptance ratio: 38/210 = 18.1%.*
-* [Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](/publications/2019-03-JSAC-Tripod). **<font color="#6384E2">[JSAC'19]</font>**  
-Menghao Zhang, Jun Bi, Kai Gao, Yi Qiao, **Guanyu Li**, Xiao Kong, Zhaogeng Li, and Hongxin Hu.  
-*CCF-A/TH-CPL-A, SCI Impact Factor: 11.42.*
+
+Professional Services
+------
+* TPC Member
+  * ACM CODASPY Poster 2022
+* Journal Reviewer
+  * IEEE/ACM Transactions on Networking (TON)
+  * IEEE Transactions on Dependable and Secure Computing (TDSC)
+  * Computers & Security (COSE)
 
 More Info
 ------

@@ -64,6 +64,7 @@ Teaching
 
 Selected Awards
 ======
+* [10/2021] **Tsinghua Toyota First-Class Scholarship**, Tsinghua University, Beijing
 * [03/2021] **Intel Bug Bounty Awards**, High-Impact Software Bugs on Tofino Switch, Intel
 * [12/2020] **2nd prize**, Tsinghua 84 Scholarship for Innovations and Future, Beijing
 * [08/2019] **2nd prize**, 2019 SIGCOMM Hackthon, Beijing
@@ -77,7 +78,13 @@ Selected Awards
 * [08/2015] **2nd prize**, National SDN Application Contest, Guangzhou
 * [02/2015] **Freshman Scholarship**, HUST, Wuhan
   
-Service and Leadership
+Services
 ======
+* TPC Member
+  * ACM CODASPY Poster 2022
+* Journal Reviewer
+  * IEEE/ACM Transactions on Networking (TON)
+  * IEEE Transactions on Dependable and Secure Computing (TDSC)
+  * Computers & Security (COSE)
 * Member of [HUST Unique Studio](https://www.hustunique.com){:target="\_blank"} IT Group (2014 to 2018)
-* One of the founders of Liaocheng Rye Education which provides self-study room and tutors (from this year's graduates) for senior high school students.
+* One of the founders of Liaocheng Rye Education which provides self-study room and tutors (from this year's graduates) for senior high school students
