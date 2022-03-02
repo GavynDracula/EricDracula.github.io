@@ -28,9 +28,14 @@ Education
 * 2018 to now : **Ph.D.** student
   * [Institute for Network Science and Cyberspace](http://www.insc.tsinghua.edu.cn){:target="\_blank"}, [Tsinghua University](https://www.tsinghua.edu.cn){:target="\_blank"}
   * Subject: Cyberspace Security
+  * Direction: Employ programmable networks and kernels to enhance the security of systems
 
 Work Experience
 ======
+* Summer 2021: Security Researcher Intern
+  * Place: [QiAnxin](https://www.qianxin.com//){:target="\_blank"}
+  * Duties: Protocol Information Leakage Exploring
+  * Supervisor: Dr. Shujun Tang
 * Summer 2020: Software Engineer Intern
   * Place: [Huawei](https://www.huawei.com/){:target="\_blank"}
   * Duties: Programmable Networking System Develping
@@ -39,12 +44,6 @@ Work Experience
   * Place: [CraiditX](https://www.creditx.com/){:target="\_blank"}
   * Duties: Internal Data Processing System Develping
   * Supervisor: Mr. Wei Yan
-  
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 {% comment %}
 
@@ -88,3 +87,10 @@ Services
   * Computers & Security (COSE)
 * Member of [HUST Unique Studio](https://www.hustunique.com){:target="\_blank"} IT Group (2014 to 2018)
 * One of the founders of Liaocheng Rye Education which provides self-study room and tutors (from this year's graduates) for senior high school students
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
