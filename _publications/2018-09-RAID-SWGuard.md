@@ -7,7 +7,7 @@ date: 2018-09-12
 venue: 'International Symposium on Research in Attacks, Intrusions and Defenses (RAID)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-00470-5_8'
 
-citation: '<i>Menghao Zhang, <b>Guanyu Li</b>, Lei Xu, Jun Bi, Guofei Gu, and Jiasong Bai. &quot;Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures&quot;. In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2018), Heraklion, Crete, Greece, September 10-12, 2018.</i>'
+citation: '<i>Menghao Zhang, <b>Guanyu Li</b>, Lei Xu, Jun Bi, Guofei Gu, Jiasong Bai. &quot;Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures&quot;. In The 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID ''18), September 10-12, 2018, Heraklion, Crete, Greece.</i>'
 
 ---
 **Abstract:**  

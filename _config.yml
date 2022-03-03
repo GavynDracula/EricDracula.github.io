@@ -6,11 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+lang                     : "en"
 locale                   : "en-US"
 title                    : "Guanyu Li"
 title_separator          : "-"
 name                     : &name "Guanyu Li (李冠宇)"
-description              : &description "2nd-year Ph.D. student in Institute for Network Science and Cyberspace of Tsinghua University"
+description              : &description "4th-year Ph.D. student in Institute for Network Science and Cyberspace of Tsinghua University"
 url                      : https://guanyu.li # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : https://ericdracula.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -257,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

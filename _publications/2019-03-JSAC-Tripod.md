@@ -7,7 +7,7 @@ date: 2019-03-01
 venue: 'IEEE Journal on Selected Areas in Communications (JSAC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8635514'
 
-citation: '<i>Menghao Zhang, Jun Bi, Kai Gao, Yi Qiao, <b>Guanyu Li</b>, Xiao Kong, Zhaogeng Li, and Hongxin Hu. &quot;Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway&quot;. In IEEE Journal on Selected Areas in Communications (JSAC), Vol.37, No.3, 2019.</i>'
+citation: '<i>Menghao Zhang, Jun Bi, Kai Gao, Yi Qiao, <b>Guanyu Li</b>, Xiao Kong, Zhaogeng Li, Hongxin Hu. &quot;Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway&quot;. In IEEE Journal on Selected Areas in Communications (JSAC), 2019.</i>'
 
 ---
 **Abstract:**  

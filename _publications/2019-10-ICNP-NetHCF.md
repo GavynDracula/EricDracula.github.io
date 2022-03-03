@@ -7,7 +7,7 @@ date: 2019-10-10
 venue: 'IEEE International Conference on Network Protocols (ICNP)'
 paperurl: 'https://ieeexplore.ieee.org/document/8888057'
 
-citation: '<i><b>Guanyu Li</b>, Menghao Zhang, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, and Haixin Duan. &quot;NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering&quot;. In the 27th IEEE International Conference on Network Protocols (ICNP 2019), Chicago, Illinois, USA, October 7-10, 2019.</i>'
+citation: '<i><b>Guanyu Li</b>, Menghao Zhang, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan. &quot;NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering&quot;. In The 27th IEEE International Conference on Network Protocols (ICNP ''19), October 7-10, 2019, Chicago, IL, USA.</i>'
 
 ---
 **Abstract:**  

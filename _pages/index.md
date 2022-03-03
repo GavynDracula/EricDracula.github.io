@@ -1,16 +1,16 @@
 ---
 permalink: /
+lang: en
+ref: index
 title: "About Me"
-excerpt: "About me"
+excerpt: "Homepage"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /en/
 ---
 
-I'm Guanyu Li, a 4th-year Ph.D. candidate in [Institute for Network Science and Cyberspace](http://www.insc.tsinghua.edu.cn){:target="\_blank"} of [Tsinghua University](https://www.tsinghua.edu.cn){:target="\_blank"}, advised by [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu){:target="\_blank"}.
-For my last undergraduate year and first graduate year, I worked under the supervision of [Prof. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/){:target="\_blank"}, a diligent and kind professor. Unfortunately, he suddenly passed away in Feb., 2019.
-Besides, I hold B.Eng. Degree in [School of Computer Science & Technology](http://cs.hust.edu.cn){:target="\_blank"} from [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="\_blank"}.
+I'm Guanyu Li, a 4th-year Ph.D. candidate in [Institute for Network Science and Cyberspace](http://www.insc.tsinghua.edu.cn){:target="\_blank"} of [Tsinghua University](https://www.tsinghua.edu.cn){:target="\_blank"}, advised by [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu){:target="\_blank"} and [Prof. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/){:target="\_blank"} (late).
+Before this, I received my B.Eng. Degree in [School of Computer Science & Technology](http://cs.hust.edu.cn){:target="\_blank"} from [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="\_blank"}.
 
 Research Interests
 ------

@@ -1,9 +1,13 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+lang: en
+ref: cv
+title: "CV"
+layout: archive
 author_profile: true
 redirect_from:
+  - /en/cv
+  - /en/resume
   - /resume
 ---
 
@@ -21,14 +25,15 @@ Basic
 
 Education
 ======
-* 2014 to 2018: **B.Eng.** degree
-  * [School of Computer Science & Technology](http://cs.hust.edu.cn){:target="\_blank"}, [Huazhong University of Science and Technology (HUST)](http://www.hust.edu.cn){:target="\_blank"}
-  * Class: The experimental class of excellent engineers
-  * GPA: 3.98/4.00
 * 2018 to now : **Ph.D.** student
   * [Institute for Network Science and Cyberspace](http://www.insc.tsinghua.edu.cn){:target="\_blank"}, [Tsinghua University](https://www.tsinghua.edu.cn){:target="\_blank"}
   * Subject: Cyberspace Security
   * Direction: Employ programmable networks and kernels to enhance the security of systems
+  * Publication: 14 papers on NSDI, ICNP, NDSS, RAID, TON, etc
+* 2014 to 2018: **B.Eng.** degree
+  * [School of Computer Science & Technology](http://cs.hust.edu.cn){:target="\_blank"}, [Huazhong University of Science and Technology (HUST)](http://www.hust.edu.cn){:target="\_blank"}
+  * Class: The experimental class of excellent engineers
+  * GPA: 3.98 / 4.00
 
 Work Experience
 ======
@@ -64,7 +69,7 @@ Teaching
 Selected Awards
 ======
 * [10/2021] **Tsinghua Toyota First-Class Scholarship**, Tsinghua University, Beijing
-* [03/2021] **Intel Bug Bounty Awards**, High-Impact Software Bugs on Tofino Switch, Intel
+* [03/2021] **High-Impact Software Bugs on Tofino Switch**, Intel Bug Bounty Awards, Intel
 * [12/2020] **2nd prize**, Tsinghua 84 Scholarship for Innovations and Future, Beijing
 * [08/2019] **2nd prize**, 2019 SIGCOMM Hackthon, Beijing
 * [06/2018] **Outstanding Undergraduate Thesis**, HUST, Wuhan
@@ -72,7 +77,7 @@ Selected Awards
 * [11/2016] **Special Undergraduate Student**, HUST, Wuhan
 * [10/2016] **National Scholarship**, HUST, Wuhan
 * [10/2016] **Merit Student**, HUST, Wuhan
-* [12/2015] **2nd prize**, National IPv6 Application Contest, Beijing
+* [12/2015] **3rd prize**, National IPv6 Application Contest, Beijing
 * [10/2015] **Merit Student**, HUST, Wuhan
 * [08/2015] **2nd prize**, National SDN Application Contest, Guangzhou
 * [02/2015] **Freshman Scholarship**, HUST, Wuhan
@@ -86,7 +91,7 @@ Services
   * IEEE Transactions on Dependable and Secure Computing (TDSC)
   * Computers & Security (COSE)
 * Member of [HUST Unique Studio](https://www.hustunique.com){:target="\_blank"} IT Group (2014 to 2018)
-* One of the founders of Liaocheng Rye Education which provides self-study room and tutors (from this year's graduates) for senior high school students
+* One of the founders of Liaocheng Rye Education
 
 Publications
 ======

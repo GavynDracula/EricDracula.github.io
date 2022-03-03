@@ -7,7 +7,7 @@ date: 2019-10-07
 venue: 'Workshop on Harnessing the Data Revolution in Networking (HDR-Nets), co-located with ICNP'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8888133'
 
-citation: '<i>Menghao Zhang, Jiasong Bai, <b>Guanyu Li</b>, Zili Meng, Hongda Li, Hongxin Hu, and Mingwei Xu. &quot;When NFV Meets ANN: Rethinking Elastic Scaling for ANN-based NFs&quot;. In the 1st Workshop on Harnessing the Data Revolution in Networking (HDR-Nets), co-located with ICNP 2019, Chicago, Illinois, USA, October 7, 2019.</i>'
+citation: '<i>Menghao Zhang, Jiasong Bai, <b>Guanyu Li</b>, Zili Meng, Hongda Li, Hongxin Hu, Mingwei Xu. &quot;When NFV Meets ANN: Rethinking Elastic Scaling for ANN-based NFs&quot;. In The 1st IEEE ICNP Workshop on Harnessing the Data Revolution in Networking (HDR-Nets ''19), October 7, 2019, Chicago, IL, USA.</i>'
 
 ---
 **Abstract:**  

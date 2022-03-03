@@ -7,7 +7,7 @@ date: 2021-04-01
 venue: 'IEEE/ACM Transactions on Networking (TON)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9288943'
 
-citation: '<i>Menghao Zhang, <b>Guanyu Li</b>, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu. &quot;Control Plane Reflection Attacks and Defenses in Software-Defined Networks&quot;. In IEEE/ACM Transactions on Networking (TON), vol. 29, no. 2, pp. 623-636, April 2021.</i>'
+citation: '<i>Menghao Zhang, <b>Guanyu Li</b>, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu. &quot;Control Plane Reflection Attacks and Defenses in Software-Defined Networks&quot;. In IEEE/ACM Transactions on Networking (TON), 2021.</i>'
 
 ---
 **Abstract:**  
