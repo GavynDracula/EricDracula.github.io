@@ -7,7 +7,7 @@ excerpt: "Homepage"
 author_profile: true
 ---
 
-我是李冠宇，现在是一名四年级的博士生，就读于 [清华大学](https://www.tsinghua.edu.cn){:target="\_blank"} 的 [网络科学与网络空间研究院（网研院）](http://www.insc.tsinghua.edu.cn){:target="\_blank"}，导师是 [徐明伟教授] (http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu){:target="\_blank"}。
+我是李冠宇，现在是一名四年级的博士生，就读于 [清华大学](https://www.tsinghua.edu.cn){:target="\_blank"} 的 [网络科学与网络空间研究院（网研院）](http://www.insc.tsinghua.edu.cn){:target="\_blank"}，导师是 [徐明伟教授](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu){:target="\_blank"}。
 在这之前，我在 [华中科技大学](http://www.hust.edu.cn){:target="\_blank"} 的 [计算机科学与技术学院](http://cs.hust.edu.cn){:target="\_blank"} 拿到了自己的学士学位。
 此间，即本科的最后一年和博士的第一年，我曾在 [毕军教授](http://netarchlab.tsinghua.edu.cn/~junbi/){:target="\_blank"} 指导下学习和科研，但恩师于 2019 年 2 月不幸去世。 
 
