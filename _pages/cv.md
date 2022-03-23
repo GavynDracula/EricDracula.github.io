@@ -27,7 +27,7 @@ Education
 ======
 * 2018 to now : **Ph.D.** student
   * [Institute for Network Science and Cyberspace](http://www.insc.tsinghua.edu.cn){:target="\_blank"}, [Tsinghua University](https://www.tsinghua.edu.cn){:target="\_blank"}
-  * Subject: Cyberspace Security
+  * Advisor: [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu){:target="\_blank"} and [Prof. Jun Bi (late)](http://netarchlab.tsinghua.edu.cn/~junbi/){:target="\_blank"}
   * Direction: Employ programmable networks and kernels to enhance the security of systems
   * Publication: 14 papers on NSDI, ICNP, NDSS, RAID, TON, etc
 * 2014 to 2018: **B.Eng.** degree

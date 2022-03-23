@@ -25,7 +25,7 @@ redirect_from:
 ======
 * 2018.09 - 至今：**博士**
   * [清华大学](https://www.tsinghua.edu.cn){:target="\_blank"} - [网络科学与网络空间研究院](http://www.insc.tsinghua.edu.cn){:target="\_blank"}
-  * 专业：网络空间安全
+  * 导师：[徐明伟教授](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu){:target="\_blank"} 和 [毕军教授（已故）](http://netarchlab.tsinghua.edu.cn/~junbi/){:target="\_blank"}
   * 方向：利用网络和内核的可编程能力增强系统的安全性
   * 成果：在 NSDI、ICNP、NDSS、RAID、TON、JSAC 等学术会议和期刊发表论文 14 篇
 * 2014.09 - 2018.07：**本科**
