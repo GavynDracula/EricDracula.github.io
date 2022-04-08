@@ -9,6 +9,8 @@ paperurl: 'https://www.ndss-symposium.org/wp-content/uploads/2020/02/24007-paper
 
 citation: '<i>Menghao Zhang, <b>Guanyu Li</b>, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu. &quot;Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches&quot;. In The 27th Network and Distributed System Security Symposium (NDSS ''20), February 23-26, 2020, San Diego, CA, USA.</i>'
 
+cnrate: 'NDSS：CCF-A/TH-CPL-A，安全领域顶级会议'
+
 ---
 **Abstract:**  
 Distributed Denial-of-Service (DDoS) attacks have become a critical threat to the Internet. Due to the increasing number of vulnerable Internet of Things (IoT) devices, attackers can easily compromise a large set of nodes and launch highvolume DDoS attacks from the botnets. State-of-the-art DDoS

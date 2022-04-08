@@ -8,6 +8,7 @@ venue: 'ACM Workshop on Hot Topics in Networks (HotNets)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3484266.3487368'
 
 citation: '<i><b>Guanyu Li</b>, Menghao Zhang, Cheng Guo, Han Bao, Mingwe Xu, Hongxin Hu. &quot;Switches are Scanners Too! A Fast and Scalable In-Network Scanner with Programmable Switches&quot;. In The 20th ACM Workshop on Hot Topics in Networks (HotNets ''21), November 10–12, 2021, Virtual Event, United Kingdom.</i>'
+cnrate: 'HotNets：CCF-C/TH-CPL-B，网络领域知名会议'
 
 ---
 **Abstract:**  

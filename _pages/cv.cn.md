@@ -26,8 +26,8 @@ redirect_from:
 * 2018.09 - 至今：**博士**
   * [清华大学](https://www.tsinghua.edu.cn){:target="\_blank"} - [网络科学与网络空间研究院](http://www.insc.tsinghua.edu.cn){:target="\_blank"}
   * 导师：[徐明伟教授](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu){:target="\_blank"} 和 [毕军教授（已故）](http://netarchlab.tsinghua.edu.cn/~junbi/){:target="\_blank"}
-  * 方向：利用网络和内核的可编程能力增强系统的安全性
-  * 成果：在 NSDI、ICNP、NDSS、RAID、TON、JSAC 等学术会议和期刊发表论文 14 篇
+  * 方向：利用网络和内核的可编程能力增强分布式系统的性能、稳定性和安全性
+  * 成果：在 NSDI、ICNP、NDSS、TON、TDSC 等顶级学术会议和期刊发表论文 15 篇
 * 2014.09 - 2018.07：**本科**
   * [华中科技大学](http://www.hust.edu.cn){:target="\_blank"} - [计算机科学与技术学院](http://cs.hust.edu.cn){:target="\_blank"}
   * 班级：计算机科学与技术卓越工程师班
@@ -92,10 +92,16 @@ Teaching
 * 华中科技大学 [联创团队](https://www.hustunique.com){:target="\_blank"} Lab 组（原IT、嵌入式及算法组）成员 (2014 到 2018)
 * 聊城东昌府区麦田教育自习室联合创始人之一
 
+<div STYLE="page-break-after: always;"></div>
 
 学术成果
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cn-cv.html %}
   {% endfor %}</ul>
+
+<div STYLE="page-break-after: always;"></div>
  
+个人综述
+======
+&emsp;&emsp;在博士期间，我致力于利用网络和内核的可编程能力增强分布式系统的性能、稳定性和安全性，在**高性能网络**、**分布式系统**和**可编程网络安全**等方向上都积累了非常宝贵的实践经验和工程能力。首先，连续多年追踪领域前沿研究方向以及与工业界的密切交流沟通，均培养了我**对网络和系统等领域的敏锐观察力**，对相关领域热点技术的认知和预测也帮助我在读博期间发表了不少高水平的创新性科研工作。其次，我在读博期间主导和参与的多个科研工作都进行了代码开源，相关项目也得到了同行的认可，因此我**在系统设计、原型实现和性能优化等方面均有着扎实的基础和丰富的经验**。最后，博士期间受到的的科研训练也让我具有**较强的逻辑思维和快速学习能力**，这也让我的未来发展方向有着无限的可能和潜力。综上，我认为自己可以迅速适应公司的发展需要，为公司的高性能网络建设、分布式系统设计和优化等方面贡献自己的一份力量！

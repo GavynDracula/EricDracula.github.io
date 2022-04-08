@@ -93,6 +93,8 @@ Services
 * Member of [HUST Unique Studio](https://www.hustunique.com){:target="\_blank"} IT Group (2014 to 2018)
 * One of the founders of Liaocheng Rye Education
 
+<div STYLE="page-break-after: always;"></div>
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
