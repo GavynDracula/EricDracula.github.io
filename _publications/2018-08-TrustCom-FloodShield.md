@@ -7,7 +7,7 @@ date: 2018-08-03
 venue: 'IEEE International Conference On Trust, Security And Privacy In Computing And Communications'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8455969'
 
-citation: '<i>Menghao Zhang, Jun Bi, Jiasong Bai, <b>Guanyu Li</b>. &quot;FloodShield: Securing the SDN Infrastructure Against Denial-of-Service Attacks&quot;. In The 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (TrustCom ''18), August 1-3, 2018, New York, NY, USA.</i>'
+citation: '<i>Menghao Zhang, Jun Bi, Jiasong Bai, <b>Guanyu Li</b>. &quot;FloodShield: Securing the SDN Infrastructure Against Denial-of-Service Attacks&quot;. In The 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (TrustCom ''18), New York, NY, USA, August 1-3, 2018.</i>'
 
 cnrate: 'TrustCom：CCF-C，安全领域知名会议'
 

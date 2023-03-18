@@ -7,7 +7,7 @@ date: 2018-08-25
 venue: 'ACM SIGCOMM Conference on Posters and Demos'
 paperurl: 'https://dl.acm.org/doi/10.1145/3234200.3234205'
 
-citation: '<i>Jiasong Bai, Jun Bi, Menghao Zhang, <b>Guanyu Li</b>. &quot;Filtering Spoofed IP Traffic Using Switching ASICs&quot;. In ACM SIGCOMM 2018 Conference on Posters and Demos, August 20-25, 2018, Budapest, Hungary.</i>'
+citation: '<i>Jiasong Bai, Jun Bi, Menghao Zhang, <b>Guanyu Li</b>. &quot;Filtering Spoofed IP Traffic Using Switching ASICs&quot;. In ACM SIGCOMM 2018 Conference on Posters and Demos, Budapest, Hungary, August 20-25, 2018.</i>'
 
 ---
 **Abstract:**  

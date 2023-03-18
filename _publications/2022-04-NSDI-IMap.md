@@ -7,7 +7,7 @@ date: 2022-04-06
 venue: 'USENIX Symposium on Networked Systems Design and Implementation (NSDI)'
 paperurl: 'https://www.usenix.org/conference/nsdi22/presentation/li-guanyu'
 
-citation: '<i><b>Guanyu Li</b>, Menghao Zhang, Cheng Guo, Han Bao, Mingwe Xu, Hongxin Hu, Fenghua Li. &quot;IMap: Fast and Scalable In-Network Scanning with Programmable Switches&quot;. In The 19th USENIX Symposium on Networked Systems Design and Implementation (NSDI ''22), April 4-6, 2022, Renton, WA, USA.</i>'
+citation: '<i><b>Guanyu Li</b>, Menghao Zhang, Cheng Guo, Han Bao, Mingwe Xu, Hongxin Hu, Fenghua Li. &quot;IMap: Fast and Scalable In-Network Scanning with Programmable Switches&quot;. In The 19th USENIX Symposium on Networked Systems Design and Implementation (NSDI ''22), Renton, WA, USA, April 4-6, 2022.</i>'
 
 cnrate: 'NSDI：CCF-A/TH-CPL-A，网络领域顶级会议'
 

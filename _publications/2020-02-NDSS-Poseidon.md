@@ -7,7 +7,7 @@ date: 2020-02-26
 venue: 'The Network and Distributed System Security Symposium (NDSS)'
 paperurl: 'https://www.ndss-symposium.org/wp-content/uploads/2020/02/24007-paper.pdf'
 
-citation: '<i>Menghao Zhang, <b>Guanyu Li</b>, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu. &quot;Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches&quot;. In The 27th Network and Distributed System Security Symposium (NDSS ''20), February 23-26, 2020, San Diego, CA, USA.</i>'
+citation: '<i>Menghao Zhang, <b>Guanyu Li</b>, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu. &quot;Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches&quot;. In The 27th Network and Distributed System Security Symposium (NDSS ''20), San Diego, CA, USA, February 23-26, 2020.</i>'
 
 cnrate: 'NDSS：CCF-A/TH-CPL-A，安全领域顶级会议'
 
